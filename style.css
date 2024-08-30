@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Sevillana&display=swap');
+*{
+    padding: 0;
+    margin: 0;
+}
+
+:root {
+    --font-Sevillana: "Sevillana", cursive;
+}
+
+.vitrine {
+    font-family: var(--font-Sevillana);
+    color: #E90074;
+}
+h2{
+    color: #FF4191;
+}
+
+main{
+    color: #FFF078;
+}
+
+body {
+    box-sizing: border-box;
+    background-color: #000000;
+}
+
+header {
+    padding: 5% 0% 0% 0%;
+    text-align: center;
+}
+
